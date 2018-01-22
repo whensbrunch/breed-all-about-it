@@ -5,3 +5,6 @@ Deep neural network for dog breed classification
 1. Logistic Regression
 2. Neural Network
 3. Neural Network with parameter and hyperparameter tuning
+
+## Dataset Info
+http://vision.stanford.edu/aditya86/ImageNetDogs/
